@@ -1,0 +1,7 @@
+version: '2'
+services:
+  stelligent_html:
+    container_name: stelligent-html
+    image: stelligent-html:latest
+    volumes:
+      - ./html/index.html:/usr/local/apache2/htdocs/index.html:ro
