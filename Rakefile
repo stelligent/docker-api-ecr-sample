@@ -20,8 +20,8 @@ task 'stelligent-html:demo' do
   %w[
     ecr:create-repository
     stelligent-html:build
-    stelligent-html:tag
     stelligent-html:test
+    stelligent-html:tag
     stelligent-html:push
     ecr:delete-repository
     stelligent-html:cleanup
