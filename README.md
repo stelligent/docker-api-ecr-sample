@@ -3,7 +3,9 @@
 This project contains a lightweight sample of how to use Docker, Amazon ECR and the swipely/docker-api to perform your Docker pipeline tasks in a testable environment with Ruby.
 
 # Read about this on Stelligent's Blog
-Check out the blog post that pairs with this demo here: <link>
+Check out the blog post that pairs with this demo here:
+
+https://stelligent.com/2017/05/02/docker-lifecycle-automation-and-testing-with-ruby-in-aws/
 
 # Requirements
 * Ruby 2.3 +
